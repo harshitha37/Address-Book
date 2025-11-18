@@ -17,11 +17,11 @@ Files : main.c , contact.c , contact.h , populate.c , populate.h , file.c , file
 - file.c and file.h : persistent I/O : save and load contacts.txt
 - populate.c and populate.h : dummy contacts inserted at start up.
 - contacts.txt : persisted contacts file.
-    First line : integer N (number of contacts)
-    Next N lines : name, phone, email.
+    **First line** : integer N (number of contacts)
+    **Next N lines** : name, phone, email.
 
-Run the program : (terminal)
-Compile : gcc *.c
-Run : ./a.out
+- Run the program : (terminal)
+- Compile : gcc *.c
+- Run : ./a.out
 
 Author : Harshitha Reddy Kothakapu
