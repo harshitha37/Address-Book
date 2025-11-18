@@ -19,7 +19,8 @@ Files : main.c , contact.c , contact.h , populate.c , populate.h , file.c , file
     **First line** : integer N (number of contacts)
     **Next N lines** : name, phone, email.
 
-- Run the program : (terminal)
+
+Run the program : (terminal)
 - Compile : gcc *.c
 - Run : ./a.out
 
