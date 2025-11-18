@@ -1,8 +1,7 @@
 Project Name : Address Book in C.
 
 Description:
-A modular Address Book application written in C that allows you to **create, store, search, edit, delete, and list contacts**, all using plain text files for persistence.  
-It is designed with separation of concerns through multiple header and source files for clarity and maintainability.
+A modular Address Book application written in C that allows you to **create, store, search, edit, delete, and list contacts**, all using plain text files for persistence. It is designed with separation of concerns through multiple header and source files for clarity and maintainability.
 
 Purpose : 
 - Store and manage contact information  
