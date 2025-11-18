@@ -12,11 +12,11 @@ Purpose :
 
 Files : main.c , contact.c , contact.h , populate.c , populate.h , file.c , file.h , contacts.txt
 
-main.c : program menu and control loop
-contact.c and contact.h : core functionality : create, search, edit, delete, list, initialise. (CRUD operations)
-file.c and file.h : persistent I/O : save and load contacts.txt
-populate.c and populate.h : dummy contacts inserted at start up.
-contacts.txt : persisted contacts file.
+- main.c : program menu and control loop
+- contact.c and contact.h : core functionality : create, search, edit, delete, list, initialise. (CRUD operations)
+- file.c and file.h : persistent I/O : save and load contacts.txt
+- populate.c and populate.h : dummy contacts inserted at start up.
+- contacts.txt : persisted contacts file.
     First line : integer N (number of contacts)
     Next N lines : name, phone, email.
 
